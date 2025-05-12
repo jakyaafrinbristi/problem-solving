@@ -16,5 +16,5 @@ function getNonFemaleNames(persons) {
 }
 
 const result = getNonFemaleNames(people);
-console.log(result); 
+// console.log(result); 
 

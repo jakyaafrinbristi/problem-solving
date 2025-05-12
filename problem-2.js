@@ -16,5 +16,5 @@ function getBookTitles(bookArray) {
 
 
 const titles = getBookTitles(books);
-console.log(titles);
+// console.log(titles);
 
